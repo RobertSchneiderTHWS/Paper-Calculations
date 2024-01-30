@@ -18,7 +18,7 @@ Conducts the Shapiro-Wilk test to evaluate the normality of the data distributio
 Performs an independent samples T-test to compare the mean scores of the two distinct framing groups. This analysis is key to determining the statistical significance of any observed differences.
 
 ### Effect Size (Cohen's d):
-Calculates Cohen's d to measure the effect size, thereby providing a clear indication of the magnitude of the difference between the two groups, if any.
+Calculates Cohen's d to measure the effect size, thereby providing a clear indication of the magnitude of the difference between the two groups.
 
 ### Confidence Interval for Mean Difference:
 Computes the 95% confidence interval for the mean difference, offering a range that likely encloses the true mean difference, enhancing the understanding of the results' precision and reliability.
