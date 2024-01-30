@@ -8,7 +8,7 @@ It's designed to handle an array of statistical computations crucial for evaluat
 
 ## Statistical Measures 📊
 
-### Standard Deviation Calculation:
+### Standard Deviation:
 Computes the standard deviation for both positively and negatively framed groups, shedding light on the variability in participants' responses and their engagement with the security material.
 
 ### Shapiro-Wilk Test:
