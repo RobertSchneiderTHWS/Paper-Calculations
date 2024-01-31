@@ -1,15 +1,15 @@
 # Enhancing Information Security Literacy:<br>The Impact of Framing Across Non-Technical Trainees 📄
 
 Welcome to the repository of the custom Python script used in the study "Enhancing Information Security Literacy: The Impact of Framing Across Non-Technical Trainees". 
-This script was developed as a key component of my research to quantitatively assess the impact of framing on information security awareness among non-technical trainees.
+This script was developed as a key component of my research to quantitatively evaluate the differential impact of positive and negative framing on information security awareness among non-technical trainees.
 
 The script provides a robust, transparent, and reproducible method for computing key statistical measures, ensuring the precision and reliability of my study's findings. 
-It's designed to handle an array of statistical computations crucial for evaluating the effectiveness of both positively and negatively framed learning materials in enhancing security awareness.
+It's designed to handle an array of statistical computations crucial for evaluating the significance of both positively and negatively framed learning materials in enhancing security awareness.
 
 ## Statistical Measures 📊
 
 ### Standard Deviation:
-Computes the standard deviation for both positively and negatively framed groups, shedding light on the variability in participants' responses and their engagement with the security material.
+Computes the standard deviation for both positively and negatively framed groups, providing a measure of the spread of participants' quiz scores around their group's mean.
 
 ### Shapiro-Wilk Test:
 Conducts the Shapiro-Wilk test to evaluate the normality of the data distribution. This step is crucial as it informs the choice of the most appropriate statistical tests for further analysis and interpretation.
